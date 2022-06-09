@@ -1,0 +1,11 @@
+Utilizando  Extenção Live HTML Previewer
+Ctrl + Shift + P
+> show Live Server Previewer
+
+Criar pagaina padrão com Snippets 
+    Html selecioanr opção desejada 
+
+Comando para criar itens mais rapido 
+
+Dentro de uma div ou outro tag
+    div.item*3 + enter onde 3 é a quantidade de itens 
