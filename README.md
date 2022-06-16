@@ -7,6 +7,8 @@ _Para mais exemplos, consulte [css3](https://developer.mozilla.org/pt-BR/docs/We
 
 _Para mais exemplos, consulte [flexbox](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Flexbox)._
 
+https://user-images.githubusercontent.com/91420997/173970090-f32f27d1-465e-4c5f-a5d7-dbe1c2541c5e.mp4
+
 ## Histórico de lançamentos
 
 * 0.0.1
