@@ -1,0 +1,38 @@
+
+.flex-container{
+    display: flex;
+    /* list-style: none; */
+    border: 1px solid black;
+    max-width: 350px;
+    min-height: 500px;
+
+}
+
+
+.flex-item{
+    background-color: rgb(9, 37, 195);
+    color: white;
+    text-align:center;
+    margin: 5px;
+    flex: 1;
+    /* min-width: 80px; */
+    
+}
+
+.flex{
+    flex: 1;
+}
+
+.center{
+    justify-content: center;
+}
+
+.center .flex-item{
+    flex: 0;
+    padding: 20px;
+}
+
+
+.center-align-items{
+    align-items: center;
+}
